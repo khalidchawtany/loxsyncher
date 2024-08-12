@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="1 4 28.988 25" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#fcd062" d="M13.994 22.795h6v5h-6zm0-5.007h6v5h-6z" style="fill-opacity: 0.11;"/>
+  <path fill="#e9eded" fill-rule="evenodd" d="M15.994 22.788v2l-.007.01 1-.5 1 .5.007-.01v-2m-2-5v1.99l-.007.01 1-.5 1 .5.007-.01v-1.99" style="fill-opacity: 0.11;"/>
+  <path fill="#2b4255" fill-rule="evenodd" d="M15.494 4 1 12.996h1.994V29h3V14.996h19V29h3V12.996h1.994z" style="fill-opacity: 0.11;"/>
+  <path fill="#fcd062" fill-rule="evenodd" d="M10.994 27.99v-3.878h-.003l-.903-.389-1.09-.47-1-.43h-.003V26.7h.003l2.993 1.29z" style="fill-opacity: 0.11;"/>
+  <path fill="#f8b84e" fill-rule="evenodd" d="M13.992 22.82v3.878h-.003l-2.993 1.29h-.003v-3.879h.003l2.993-1.29z" style="fill-opacity: 0.11;"/>
+  <path fill="#f8b84e" fill-rule="evenodd" d="m10.991 21.531-2.993 1.29 1 .43 1.09.47.903.39h.005l2.993-1.29-2.993-1.29z" style="fill-opacity: 0.11;"/>
+  <path style="line-height: normal; text-indent: 0px; text-align: start; text-decoration-line: none; text-decoration-style: solid; text-decoration-color: rgb(0, 0, 0); text-transform: none; isolation: auto; mix-blend-mode: normal; fill-opacity: 0.11;" fill="#576d7e" fill-rule="evenodd" d="M-987.037 1415.133a.5.5 0 1 0 0 1h6a.5.5 0 1 0 0-1h-6zm-2 2a.5.5 0 1 0 0 1h10a.5.5 0 1 0 0-1h-10z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" transform="matrix(1, 0, 0, 1, 999.531006, -1406.633057)"/>
+  <path fill="#f8b84e" d="M13.994 26.788h6v1.007h-6zm0-5.007h6v1.007h-6z" style="fill-opacity: 0.11;"/>
+</svg>

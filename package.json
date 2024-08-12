@@ -1,0 +1,16 @@
+{
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"dev": "LAUNCH_EDITOR=~/local/bin/nvr_launcher.sh vite",
+		"build": "vite build",
+		"jtest": "NODE_DEBUG=clog jest",
+		"test": "vitest"
+	},
+	"devDependencies": {
+	},
+	"dependencies": {
+	},
+     "postcss": {
+    }
+}

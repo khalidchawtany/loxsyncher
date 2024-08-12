@@ -1,0 +1,143 @@
+ .isErrorMessage{
+		background: red;
+	}
+.easyui-dialog form, .ezformstyle{
+  margin:0;
+  padding:10px 30px;
+}
+.easyui-dialog .ftitle, .ezformstyle .ftitle{
+  font-size:14px;
+  font-weight:bold;
+  padding:5px 0;
+  margin-bottom:10px;
+  border-bottom:1px solid #ccc;
+}
+.easyui-dialog .fitem, .ezformstyle .fitem{
+  margin-bottom:10px;
+}
+.easyui-dialog .fitem label, .ezformstyle .fitem label{
+  display:inline-block;
+  width:80px;
+}
+.easyui-dialog .fitem input, , .ezformstyle .fitem input{
+  width:160px;
+}
+
+.easyui-dialog input[type="radio"], .ezformstyle input[type="radio"]{
+  width:auto !important;
+}
+
+tr.Datagrid-row-selected{
+    background-color: #02B4DE !important;
+    color: #000 !important;
+}
+tr.Datagrid-row-selected button{
+    color: #000;
+}
+
+tr.Datagrid-row-selected.datagrid-row-editing{
+    background-color: #C0ECFF !important;
+    color: #000;
+}
+
+.hint {
+  color: #8a6d3b;
+  background-color: #fcf8e3;
+  border-color: #95B8E7 !important;
+}
+
+.display-message {
+  color: #31708f;
+  background-color: #d9edf7;
+  border-color: #bce8f1;
+}
+
+.hint-p, .display-message-p{
+  padding: 10px 5px 10px 20px;
+  margin: 0;
+}
+
+.bootstrap-danger-alert {
+  padding: 10px;
+  border: 1px solid #ebccd1;
+  background-color: #f2dede;
+  color: #a94442;
+  margin: 5px 0;
+  border-radius: 5px;
+}
+
+.vertical-line{
+  margin: 0 8px 0 5px;
+  border-right: 2px solid darkgray;
+  display: inline;
+  padding: 10px 0px;
+}
+
+.horizontal-line {
+  margin: 10px 0;
+  display: block;
+  border-bottom:1px solid #ccc;
+}
+
+.screen-centered-text{
+    width: 100%;
+    height: 80%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.total-display {
+  background: #F4F4F4;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ddd;
+  font-size: 50px;
+}
+
+.panel-buttons {
+  padding:10px;
+  text-align:right;
+  background:#F4F4F4;
+  border-bottom:0;
+  border-right:0;
+  border-left: 0;
+}
+
+.panel-label{
+  background: #F4F4F4;
+  padding: 10px;
+  border: 1px solid #ddd;
+  margin: 15px 0px;
+}
+
+#TransactionDialog #TransactionForm .fitem{
+  margin-bottom:15px;
+}
+
+.home-buttons-container a{
+    margin: 10px;
+}
+
+.green-button{
+    background: linear-gradient(to bottom,#b8ffb8 0,#009d00 100%);
+}
+.green-button:hover{
+    background: #8ff88f;
+}
+
+.blue-button{
+    background: linear-gradient(to bottom,#e8eeff 0,#008acc 100%);
+}
+.blue-button:hover{
+    background: #88dfff;
+}
+
+.red-button{
+    background: linear-gradient(to bottom,#ffa0a0 0,#ff5555 100%);
+}
+.red-button:hover{
+    background: #ff3333 ;
+}
